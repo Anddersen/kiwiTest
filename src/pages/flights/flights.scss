@@ -1,0 +1,7 @@
+.flightsBlock {
+  min-height: 100vh;
+  display: flex;
+  &__content {
+    padding: 10px 58px;
+  }
+}
